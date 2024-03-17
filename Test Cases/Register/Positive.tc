@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3249cdd-99cf-41bd-8b31-f262d80967af</testCaseGuid>
+   <variable>
+      <defaultValue>'Email'</defaultValue>
+      <description></description>
+      <id>801e30d6-1a90-4ac8-ba58-c2626cf9e78e</id>
+      <masked>false</masked>
+      <name>darimana</name>
+   </variable>
+</TestCaseEntity>
